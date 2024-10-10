@@ -14,4 +14,5 @@
     # Emoji
     - :blush:
     - :smiley:
-  
+  Lab 6
+[CLI commands](docs/cli.md)
